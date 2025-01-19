@@ -1,0 +1,19 @@
+.classTag{
+  background-color: rgb(255, 168, 181);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#oneID{
+  color: rgb(0, 0, 255);
+  font-size: 36px;
+}
+
+#twoID{
+background-color: #90EE90;
+font-size: 24px;
+font-weight: bold;
+}
+
+#threeID{
+  font-size:24px;
+}
